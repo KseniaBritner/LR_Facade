@@ -1,0 +1,11 @@
+D:\Курс_II\Языки и методы программирования (3)\LibraryFacade\ProgramFacade\obj\Debug\ProgramFacade.csproj.AssemblyReference.cache
+D:\Курс_II\Языки и методы программирования (3)\LibraryFacade\ProgramFacade\obj\Debug\ProgramFacade.csproj.SuggestedBindingRedirects.cache
+D:\Курс_II\Языки и методы программирования (3)\LibraryFacade\ProgramFacade\obj\Debug\ProgramFacade.csproj.CoreCompileInputs.cache
+D:\Курс_II\Языки и методы программирования (3)\LibraryFacade\ProgramFacade\bin\Debug\ProgramFacade.exe.config
+D:\Курс_II\Языки и методы программирования (3)\LibraryFacade\ProgramFacade\bin\Debug\ProgramFacade.exe
+D:\Курс_II\Языки и методы программирования (3)\LibraryFacade\ProgramFacade\bin\Debug\ProgramFacade.pdb
+D:\Курс_II\Языки и методы программирования (3)\LibraryFacade\ProgramFacade\bin\Debug\LibraryFacade.dll
+D:\Курс_II\Языки и методы программирования (3)\LibraryFacade\ProgramFacade\bin\Debug\LibraryFacade.pdb
+D:\Курс_II\Языки и методы программирования (3)\LibraryFacade\ProgramFacade\obj\Debug\ProgramFacade.csproj.CopyComplete
+D:\Курс_II\Языки и методы программирования (3)\LibraryFacade\ProgramFacade\obj\Debug\ProgramFacade.exe
+D:\Курс_II\Языки и методы программирования (3)\LibraryFacade\ProgramFacade\obj\Debug\ProgramFacade.pdb

@@ -1,0 +1,6 @@
+D:\Курс_II\Языки и методы программирования (3)\LibraryFacade\LibraryFacade\bin\Debug\LibraryFacade.dll
+D:\Курс_II\Языки и методы программирования (3)\LibraryFacade\LibraryFacade\bin\Debug\LibraryFacade.pdb
+D:\Курс_II\Языки и методы программирования (3)\LibraryFacade\LibraryFacade\obj\Debug\LibraryFacade.csproj.AssemblyReference.cache
+D:\Курс_II\Языки и методы программирования (3)\LibraryFacade\LibraryFacade\obj\Debug\LibraryFacade.csproj.CoreCompileInputs.cache
+D:\Курс_II\Языки и методы программирования (3)\LibraryFacade\LibraryFacade\obj\Debug\LibraryFacade.dll
+D:\Курс_II\Языки и методы программирования (3)\LibraryFacade\LibraryFacade\obj\Debug\LibraryFacade.pdb

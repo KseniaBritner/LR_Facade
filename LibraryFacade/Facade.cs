@@ -19,6 +19,7 @@ namespace LibraryFacade
         }
         public void On()
         {
+            Console.WriteLine("Включение домашнего кинотеатра");
             tv.On();
             audio.On();
             dvd.In();
